@@ -1,0 +1,24 @@
+body {
+	max-width: 50em;
+	margin: auto;
+	background-color: #FFF0A9;
+}
+
+h2 {
+	color:#222222;
+}
+
+p,li {
+	color:#333333;
+}
+
+.uc {
+	color: #7019B0;
+	background-color: #FFF;
+}
+
+#pääotsikko {
+	font-family: cursive;
+	font-size: 3em;
+}
+
